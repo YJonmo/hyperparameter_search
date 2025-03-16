@@ -34,5 +34,18 @@ source .my_env/bin/activate
 pip install -r requirement.txt
 ```
 
-3. Run the jupiter notebook (main.ipynb) in colab or local in VSCode. 
+3. Run the jupiter notebook (main.ipynb) in colab or locally in VSCode. 
 
+
+### Sample plots at the end of the jupyer notebook run
+
+Parallel plot
+<a name="top"></a>
+<img src="./assets/parallel.jpg" alt="Agent Architecture Diagram" width="400" height="220">
+<div align="left">
+
+
+Importance plot
+<a name="top"></a>
+<img src="./assets/importance.jpg" alt="Agent Architecture Diagram" width="400" height="220">
+<div align="left">
