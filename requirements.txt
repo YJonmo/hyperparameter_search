@@ -1,0 +1,8 @@
+optuna
+jupyterlab
+jupyterlab-optuna
+torch
+torchvision
+numpy
+scikit-learn
+plotly
