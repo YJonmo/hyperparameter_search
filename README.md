@@ -53,15 +53,17 @@ pip install -r requirement.txt
 
 ### Sample plots at the end of the jupyer notebook run
 
-Parallel plot
 
-<a name="top"></a>
-<img src="./assets/parallel.jpg" alt="Agent Architecture Diagram" width="400" height="220">
-<div align="left">
+<table>
+  <tr>
+    <td>
+      <p>Parallel plot</p>
+      <img src="./assets/parallel.jpg" alt="Parallel plot" width="380" height="250">
+    </td>
+    <td>
+      <p>Importance plot</p>
+      <img src="./assets/importance.jpg" alt="Importance Plot" width="350" height="250">
+    </td>
+  </tr>
+</table>
 
-
-Importance plot
-
-<a name="top"></a>
-<img src="./assets/importance.jpg" alt="Agent Architecture Diagram" width="400" height="220">
-<div align="left">
