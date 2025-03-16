@@ -20,6 +20,20 @@ The optimization process maximizes both classification accuracy and F1 score. Vi
   - seaborn
   - torch
 
+## Project Structor
+```bash
+project_root/
+│
+├── assets/  
+├── data/
+├── src/
+│   ├── models.py
+│   └── utils.py     
+├── main.ipynb  
+├── README.md
+└── requirements.txt
+```
+
 ## Usage
 1. Create a virtul env:
 
