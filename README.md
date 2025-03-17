@@ -48,7 +48,7 @@ source .my_env/bin/activate
 pip install -r requirement.txt
 ```
 
-3. Run the jupiter notebook (main.ipynb) in colab or locally in VSCode. 
+3. Run the jupyter notebook (main.ipynb) in colab or locally in VSCode. 
 
 
 ### Sample plots at the end of the jupyer notebook run
