@@ -20,7 +20,7 @@ The optimization process maximizes both classification accuracy and F1 score. Vi
   - seaborn
   - torch
 
-## Project Structor
+## Project Structure
 ```bash
 project_root/
 │
